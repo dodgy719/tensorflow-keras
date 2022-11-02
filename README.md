@@ -12,4 +12,3 @@ The lesson culminates in coding up a first ANN in `keras`, but first there are s
 
 Two notebooks:
 - [Jupyter Notebook: Intro to Keras and Tensorflow](intro_to_keras_and_tf.ipynb)
-- [Jupyter Notebook: Neural Network from Scratch](neural_network_from_scratch.ipynb)
